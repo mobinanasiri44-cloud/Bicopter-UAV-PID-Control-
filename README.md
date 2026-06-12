@@ -101,6 +101,7 @@ The control system maintained acceptable performance despite the presence of mea
 
 ```text
 models/ : Nonlinear and linearized bicopter model diagrams
+closed_loop/ : Closed-loop control architectures with PID controllers, disturbances, and measurement noise
 simulation/ : Nominal response, disturbance rejection, and noise analysis results
 report/ : Final project report
 files/ : Simulink implementation file (.slx)
